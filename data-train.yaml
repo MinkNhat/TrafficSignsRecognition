@@ -1,0 +1,121 @@
+path: ../datasets
+train: images/train
+val: images/val
+
+# Classes
+names:
+  0: Pedestrian Crossing
+  1: Equal-level Intersection
+  2: No Entry
+  3: Right Turn Only
+  4: Intersection
+  5: Intersection with Uncontrolled Road
+  6: Dangerous Turn
+  7: No Left Turn
+  8: Bus Stop
+  9: Roundabout
+  10: No Stopping and No Parking
+  11: U-Turn Allowed
+  12: Lane Allocation
+  13: No Left Turn for Motorcycles
+  14: Slow Down
+  15: No Trucks Allowed
+  16: Narrow Road on the Right
+  17: No Passenger Cars and Trucks
+  18: Height Limit
+  19: No U-Turn
+  20: No U-Turn and No Right Turn
+  21: No Cars Allowed
+  22: Narrow Road on the Left
+  23: Uneven Road
+  24: No Two or Three-wheeled Vehicles
+  25: Customs Checkpoint
+  26: Motorcycles Only
+  27: Obstacle on the Road
+  28: Children Present
+  29: Trucks and Containers
+  30: No Motorcycles Allowed
+  31: Trucks Only
+  32: Road with Surveillance Camera
+  33: No Right Turn
+  34: Series of Dangerous Turns
+  35: No Containers Allowed
+  36: No Left or Right Turn
+  37: No Straight and Right Turn
+  38: Intersection with T-Junction
+  39: Speed limit (50km/h)
+  40: Speed limit (60km/h)
+  41: Speed limit (80km/h)
+  42: Speed limit (40km/h)
+  43: Left Turn
+  44: Low Clearance
+  45: Other Danger
+  46: Go Straight
+  47: No Parking
+  48: Containers Only
+  49: No U-Turn for Cars
+  50: Level Crossing with Barriers
+  51: Stop
+  52: No Right Turn For Car
+  53: No Left Turn For Car
+  54: No Car and Motocycles
+  55: No Bike
+  56: No Pedestrian
+  57: No Overtaking
+  58: No Overtaking by Trucks
+  59: No Honking
+  60: No Stopping and Parking
+  61: No Waiting
+  62: No Parking on Odd-numbered Day
+  63: No Parking on Even-numbered Day
+  64: End of No Overtaking
+  65: End of all prohibitions
+  66: End of Speed limit
+  67: Width limit
+  68: Length limit
+  69: Weight limit
+  70: Speed limit at Night
+  71: Inspection Station
+  72: Tunnel
+  73: Highway Ahead
+  74: Overhead Cabels
+  75: Ferry
+  76: Intersects with Priority Road
+  77: Intersects with Non-Priority Road
+  78: Two Way
+  79: Narrow Road
+  80: Slippery Road
+  81: Cattle
+  82: Start Double Lane
+  83: End of Double Lane
+  84: Intersection with Two Way Road
+  85: Intersection with Railway with no Barries
+  86: Signal Light
+  87: Intersection with Railway with Barries
+  88: Hump Bridge
+  89: Narrow Bridge
+  90: Temporary Bridge
+  91: Moveable Bridge
+  92: Car Only
+  93: Go A head Only
+  94: Turn Left Only
+  95: Go Ahead or Turn Right Only
+  96: Go Ahead or Turn Left Only
+  97: Turn Left or Turn Rigth Only
+  98: Rudimentary Road
+  99: Pedestrian Road
+  100: Honk
+  101: Minimum Speed Allowed
+  102: End of Minimum Speed
+  103: Deadend Road
+  104: Right Direction to Left
+  105: Left Direction to Left
+  106: Market
+  107: Parking Attention
+  108: Rock Failling
+  109: No Three-Wheeled Vehicles
+  110: No Busses Allowed
+  111: Pay Attention
+
+
+
